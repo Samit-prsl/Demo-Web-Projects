@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-image: url('veg.png');
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-size: cover;
+    
+    
+}
+    .col{
+        padding: 10px 0px;
+    }
+    .text{
+        color: rgb(135, 199, 199);
+        font-size: 15px;
+        padding: 5px;
+    }
+    .textbox{
+        background-color: black;
+        margin: 2px solid black;
+        padding: 5px 0px
+    }
